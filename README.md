@@ -66,7 +66,7 @@ Before you begin, ensure you have the following installed:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/FocusFlow.git
+git clone https://github.com/Suryanshu-Nabheet/FocusFlow.git
 cd FocusFlow
 ```
 
